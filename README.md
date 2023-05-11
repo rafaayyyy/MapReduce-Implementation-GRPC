@@ -1,4 +1,5 @@
 # MapReduce-Implementation-GRPC
+This is an implementation of a distributed system using the Map Reduce Master Slave Implementation. The library used for the implementation is gRPC and the programming language used is C++.
  
 ## Setup:
 
